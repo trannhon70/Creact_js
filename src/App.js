@@ -19,9 +19,9 @@ function App() {//component gốc của ứng dụng
         {/* <DatabindingF/> */}
         {/* <HendleVent/> */}
         {/* <RenderWithState/> */}
-        <BaiTapChonXe/>
+        {/* <BaiTapChonXe/> */}
         {/* <RenderWithMap/> */}
-        {/* <BaiTapChonKinh/> */}
+        <BaiTapChonKinh/>
     </div>
   );
 }
